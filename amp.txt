@@ -6,5 +6,9 @@ deploying production
 
 
 
+
 this is created in cent os and working on future set 2
 
+
+Bug is fixed
+this is a new lin
